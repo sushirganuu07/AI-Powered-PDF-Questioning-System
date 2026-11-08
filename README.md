@@ -100,6 +100,18 @@ streamlit run app.py
 7. Google Gemini generates an answer using the retrieved context.
 8. The application displays the answer with source information.
 
+
+## Application Screenshots
+
+### 1. Home Screen
+![Home Screen](screenshots/home.png)
+
+### 2. PDF Upload
+![PDF Upload](screenshots/pdf-upload.png)
+
+### 3. AI Question and Answer
+![AI Question and Answer](screenshots/question-answer.png)
+
 ## Author
 
 Ganesh Sushir
